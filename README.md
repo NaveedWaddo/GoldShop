@@ -8,8 +8,8 @@
 
 ```bash
 GoldShop/
-│── frontend/    # Frontend (React, JavaScript, Zustand, Tailwind CSS, DaisyUi)
-│── backend/     # Backend (Node.js, Express, MongoDB, Socket.io)
+│── frontend/    # Frontend (React, JavaScript ,,Tailwind CSS)
+│── backend/     # Backend (Node.js, Express, Postgresql)
 │── README.md    # Documentation
 ```
 
